@@ -13,7 +13,7 @@ To build a multi-page interactive dashboard that tracks manufacturer revenue, co
 
 📸 Dashboard Preview
 
-![Dashboard Preview](screenshots/dashboard.png)
+[Dashboard Preview]
 
 <img width="1997" height="1157" alt="image" src="https://github.com/user-attachments/assets/57c7cfa9-09dd-4119-b84f-ed50d0829fd7" />
 
@@ -53,13 +53,13 @@ To build a multi-page interactive dashboard that tracks manufacturer revenue, co
 
 manufacturer-sales-dashboard/
 │
-├── ManufacturerAnalysis.pbix   # Power BI file
+├── sales_analysis.pbix   # Power BI file
 ├── screenshots/
 │   └── dashboard.png           # Dashboard preview
 └── README.md
 🚀 How to Run
 
 1. Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/)
-2. Open `ManufacturerAnalysis.pbix`
+2. Open `sales_analysis.pbix`
 3. Use the manufacturer slicer to compare competitors
 4. Use the year play-axis to animate revenue progression
