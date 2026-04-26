@@ -49,14 +49,6 @@ To build a multi-page interactive dashboard that tracks manufacturer revenue, co
 - AI Insights (Smart Narrative)
 - Bookmarks
 
- 📁 Project Structure
-
-manufacturer-sales-dashboard/
-│
-├── sales_analysis.pbix   # Power BI file
-├── screenshots/
-│   └── dashboard.png           # Dashboard preview
-└── README.md
 🚀 How to Run
 
 1. Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/)
